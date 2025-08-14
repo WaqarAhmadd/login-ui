@@ -176,7 +176,7 @@ class MyApp extends StatelessWidget {
                   style: TextStyle(
                     fontFamily: 'Rubik Medium',
                     color: Color(0xfff9703b),
-                    fontWeight: FontWeight.w300,
+                    fontWeight: FontWeight.w300, //this is font weight
                   ),
                 ),
               ],
